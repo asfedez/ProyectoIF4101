@@ -1,0 +1,4 @@
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb

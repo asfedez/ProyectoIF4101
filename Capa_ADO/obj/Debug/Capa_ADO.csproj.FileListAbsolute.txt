@@ -1,0 +1,7 @@
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_ADO\bin\Debug\Capa_ADO.dll
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_ADO\bin\Debug\Capa_ADO.pdb
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_ADO\bin\Debug\Capa_Logica.dll
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_ADO\bin\Debug\Capa_Logica.pdb
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_ADO\obj\Debug\Capa_ADO.csprojResolveAssemblyReference.cache
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_ADO\obj\Debug\Capa_ADO.dll
+C:\Users\Adrián S. Fernández\Documents\Visual Studio 2017\Projects\ProyectoIF4101\Capa_ADO\obj\Debug\Capa_ADO.pdb
